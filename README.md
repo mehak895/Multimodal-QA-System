@@ -1,4 +1,3 @@
-# multimodal-qa-system
 # Knowledge-Infused Multimodal QA System for Scientific Documents
 
 <p align="center">
