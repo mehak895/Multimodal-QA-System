@@ -143,25 +143,6 @@ Each generated answer is linked to supporting text sections, tables, and figures
 - 
 ---
 
-## Repository Structure
-
-```text
-multimodal-qa-system/
-│
-├── README.md
-│
-├── paper/
-│   └── research_paper.pdf
-│
-├── diagrams/
-│   ├── architecture.png
-│   └── methodology.png
-│
-└── pipeline/
-    └── figure_pipeline.py
-```
-
----
 ## Keywords
 
 Multimodal AI • Vision-Language Models • Scientific Question Answering • Document Intelligence • Embedding Retrieval • Cross-Modal Reasoning • LLMs • VLMs • Knowledge Systems
